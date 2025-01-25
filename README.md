@@ -77,16 +77,16 @@ To configure Firebase for this project, follow these steps:
    - Set up the collections as shown in the following Fields :
 
      projects 
-      1. Description
-      2. Features
-      3. Github
-      4. Img
-      5. Link
-      6. TechStack
-      7. Title
+      - Description
+      - Features
+      - Github
+      - Img
+      - Link
+      - TechStack
+      - Title
       
       Certificates
-      1. Img   
+      - Img   
 
 6. **Update `firebase.js` and `firebase-comment.js` Files:**  
    - Replace the `firebaseConfig` content with your Firebase configuration.  
